@@ -4,13 +4,13 @@ This is the code for my journey of learning 'Reinforcement Learning' from scratc
 
 这是我从零开始学习“强化学习”的代码之旅。随着学习的深入，我将不断添加更多内容，并欢迎任何形式的交流。
 
-## 1. 01_MAB_BernoulliBandit
+## 1. [01_MAB_BernoulliBandit](https://github.com/stranger47-MCI/A-First-course-on-Reinforcement-learning-with-python/blob/main/01_MAB_BernoulliBandit.ipynb)
 
 ### Multi-Armed Bandit Problem Implementation - Bernoulli Bandit
 
 Implement UCB (Upper Confidence Bound) and e-Greedy algorithms for a multi-armed bandit problem with k=10 arms. Each arm's reward follows a Bernoulli distribution. Provide a Python program that implements both algorithms and plots their performance comparison.
 
-## 2. 01_MAB_GaussianBandit
+## 2. [01_MAB_GaussianBandit](https://github.com/stranger47-MCI/A-First-course-on-Reinforcement-learning-with-python/blob/main/01_MAB_GaussianBandit.ipynb)
 
 ### Multi-Armed Bandit Problem Implementation - Gaussian Bandit
 
