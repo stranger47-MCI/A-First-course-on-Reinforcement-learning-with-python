@@ -1,4 +1,5 @@
 # A First Course on Reinforcement Learning with Python
+#使用python jupyter notebook 强化学习入门
 
 This is the code for my journey of learning 'Reinforcement Learning' from scratch. I will continuously add more content as I progress in my studies, and I welcome any exchanges.
 
